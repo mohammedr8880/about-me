@@ -8,3 +8,12 @@ School: High School of Telecommunication Arts and Technology aka HSTAT
 
 Bio: I grew up in Brooklyn, New York. I always liked to play Basketball with my friends, I also like to listen to a lot of music, mostly rap.
 
+School Schedule:
+    1. English
+    2. Spanish
+    3. Big History Project
+    4. Chemistry
+    5. Sep 10
+    6. Global History
+    7. Gym
+    8. Algebra 2
