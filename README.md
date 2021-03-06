@@ -25,3 +25,37 @@ School Schedule:
     7. Gym
     
     8. Algebra 2
+    
+My Favorite Rappers(not all are listed):
+
+    Travis Scott
+    
+    Pop Smoke
+    
+    Drake
+    
+    King Von
+    
+    Lil Durk
+    
+    J cole
+    
+    Kendrick Lamar
+    
+    Lil Baby
+    
+    Lil Uzi Vert
+    
+    Juice Wrld
+    
+    Chief Keef
+    
+    NLE Choppa
+    
+    Roddy Ricch
+    
+    Polo G
+    
+    Ski Mask the Slump God
+    
+    XXXTENTACION
