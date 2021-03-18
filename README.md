@@ -8,7 +8,7 @@ Email: mohammedr8880@hstat.org
 
 Bio: I grew up in Brooklyn, New York. I always liked to play Basketball with my friends, I also like to listen to a lot of music, mostly rap.
 
-School Schedule:
+**School Schedule:**
 
     1. English
     
@@ -26,7 +26,7 @@ School Schedule:
     
     8. Algebra 2
     
-My Favorite Rappers(not all are listed):
+My Favorite Rappers**(not all are listed)**:
 
     Travis Scott
     
