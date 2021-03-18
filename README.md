@@ -2,8 +2,7 @@
 
 # Name: Mohammed Rahman
 
-Email: mohammedr8880@hstat.org
-
+Email: mohammedr8880@hstat.org  
 ## School: High School of Telecommunication Arts and Technology aka [HSTAT](https://www.hstat.org/)
 
 Bio: I grew up in Brooklyn, New York. I always liked to play Basketball with my friends, I also like to listen to a lot of music, mostly rap.
@@ -31,34 +30,34 @@ Bio: I grew up in Brooklyn, New York. I always liked to play Basketball with my 
 
 My Favorite Rappers**(not all are listed)**:
 
-    Travis Scott
+* Travis Scott
     
-    Pop Smoke
+* Pop Smoke
     
-    Drake
+* Drake
     
-    King Von
+* King Von
     
-    Lil Durk
+* Lil Durk
     
-    J cole
+* J cole
     
-    Kendrick Lamar
+* Kendrick Lamar
     
-    Lil Baby
+* Lil Baby
     
-    Lil Uzi Vert
+* Lil Uzi Vert
     
-    Juice Wrld
+* Juice Wrld
     
-    Chief Keef
+* Chief Keef
     
-    NLE Choppa
+* NLE Choppa
     
-    Roddy Ricch
+* Roddy Ricch
     
-    Polo G
+* Polo G
     
-    Ski Mask the Slump God
+* Ski Mask the Slump God
     
-    XXXTENTACION
+* XXXTENTACION
