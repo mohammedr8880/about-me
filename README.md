@@ -26,6 +26,8 @@ Bio: I grew up in Brooklyn, New York. I always liked to play Basketball with my 
     
     8. Algebra 2
     
+    ---
+    
 My Favorite Rappers**(not all are listed)**:
 
     Travis Scott
