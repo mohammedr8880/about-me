@@ -61,3 +61,6 @@ My Favorite Rappers**(not all are listed)**:
 * Ski Mask the Slump God
     
 * XXXTENTACION
+* 
+
+*reviewed by Fuad Farhan*
